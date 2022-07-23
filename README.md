@@ -66,13 +66,13 @@ DELETE /clients/1
 ```
 
 # Tecnologias utilizadas
-```bash
--Java
--Springboot
--JPA / Hibernate
--Maven
--Banco de dados H2
-```
+
+- Java
+- Springboot
+- JPA / Hibernate
+- Maven
+- Banco de dados H2
+
 
 # Autor
 
